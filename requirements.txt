@@ -1,0 +1,7 @@
+pyaudio
+pydub
+httpx
+SpeechRecognition
+openwakeword
+numpy
+gTTS
