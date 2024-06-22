@@ -10,6 +10,8 @@ import wave
 import gtts
 from pydub import AudioSegment
 
+import env
+
 listening_audio = 'listening_indicator_2.wav'
 sending_audio = 'listening_indicator.wav'
 
